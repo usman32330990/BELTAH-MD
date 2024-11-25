@@ -1,6 +1,6 @@
 {
-  "name": "😡 BELTAH-MD 😡",
-  "description": "This BOT was developed by Beltah.",
+  "name": "😡 USMAN-MD 😡",
+  "description": "This BOT was developed by Usman.",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-  "repository": "https://github.com/Huaweike/BELTAH-MD",
+  "repository": "https://github.com/usman32330990/BELTAH-MD",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -20,7 +20,7 @@
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
@@ -44,8 +44,8 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "BELTAH-MD",
-      "required": false
+      "value": "USMAN-MD",
+      "required": true
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
@@ -79,8 +79,8 @@
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-      "required": false,
-      "value": "254114141192"
+      "required": true,
+      "value": "923127067592"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
