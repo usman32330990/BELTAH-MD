@@ -58,7 +58,7 @@ allowed! For we shall not offer any help if any error occur!
 ***
 ### HELP :
 **IF you need any help**
-- [**CLICK HERE**](https:wa.me/254114141192)
+- [**CLICK HERE**](https:wa.me/923127067592)
 
 
 ***
@@ -66,7 +66,7 @@ allowed! For we shall not offer any help if any error occur!
 ### THANKS TO:
 GOD THE CREATOR ❤️
 ### THANKS TO:
-- [***Beltah Tech 254 🇰🇪***](https://github.com/Beltahtech) For several Cmds Addition.
+- [***Usman Tech +92 🇵🇰***](https://github.com/usman32330990) For several Cmds Addition.
 - [***France King***](https://github.com/franceking1) For several latest Cmd scripts.
 - [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **BELTAH-MD**
 
@@ -75,4 +75,4 @@ GOD THE CREATOR ❤️
 
 
 
-BELTAH-MD BOT ©️ 2024 
+USMAN-MD BOT ©️ 2024 
